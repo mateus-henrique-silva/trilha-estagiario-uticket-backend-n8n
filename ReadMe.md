@@ -8,8 +8,8 @@
 ---
 
 ##  API e Desenvolvimento
- - [Construindo uma API REST com Go (YouTube)](https://youtu.be/ghTrp1x_1As?si=eyB-yO0o61Jjrv2A)
- - [Guia prático para começar com Go (YouTube)](https://youtu.be/x_H2GgqjCZI?si=foDfq0tQj7RfNg8q)
+ - [Construindo uma API REST (YouTube)](https://youtu.be/ghTrp1x_1As?si=eyB-yO0o61Jjrv2A)
+ - [Guia prático para começar (YouTube)](https://youtu.be/x_H2GgqjCZI?si=foDfq0tQj7RfNg8q)
 
 ---
 
