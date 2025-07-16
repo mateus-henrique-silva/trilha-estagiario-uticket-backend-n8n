@@ -7,11 +7,12 @@
 
 ---
 
-## Golang - API e Desenvolvimento
+##  API e Desenvolvimento
  - [Construindo uma API REST com Go (YouTube)](https://youtu.be/ghTrp1x_1As?si=eyB-yO0o61Jjrv2A)
-### YouTube
+ - [Guia prático para começar com Go (YouTube)](https://youtu.be/x_H2GgqjCZI?si=foDfq0tQj7RfNg8q)
+### Golang
 
-- [Guia prático para começar com Go (YouTube)](https://youtu.be/x_H2GgqjCZI?si=foDfq0tQj7RfNg8q)
+
 - [Curso Introdutório de Go (Rocketseat)](https://app.rocketseat.com.br/journey/go-curso-introdutorio/overview)
 - [Curso completo de Go (Rocketseat)](https://app.rocketseat.com.br/journey/go/contents)
 - [API REST em Golang com boas práticas (YouTube)](https://youtu.be/K3UL2i_mffg)
