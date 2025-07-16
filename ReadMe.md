@@ -2,7 +2,7 @@
 
 ## n8n
 
-- [Introdução ao n8n (YouTube)](https://www.youtube.com/watch?v=AURnISajubk) v
+- [Introdução ao n8n (YouTube)](https://www.youtube.com/watch?v=AURnISajubk)
 - [Criando o primeiro workflow (YouTube)](https://youtu.be/4cQWJViybAQ)
 
 ---
