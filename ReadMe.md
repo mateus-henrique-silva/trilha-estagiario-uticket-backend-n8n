@@ -16,7 +16,7 @@
 ### Golang
 
 
-- [Curso Introdutório de Go (Rocketseat)](https://app.rocketseat.com.br/journey/go-curso-introdutorio/overview)
+- [Curso Introdutório de Go (Rocketseat)](https://app.rocketseat.com.br/journey/go-curso-introdutorio/overview) ✅
 - [Curso completo de Go (Rocketseat)](https://app.rocketseat.com.br/journey/go/contents)
 - [API REST em Golang com boas práticas (YouTube)](https://youtu.be/K3UL2i_mffg)
 
